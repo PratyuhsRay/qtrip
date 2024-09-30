@@ -1,0 +1,109 @@
+*{
+  margin: 0;
+  border: 0;
+  box-sizing: border-box;
+  overflow-x: hidden;
+ }
+#firstul{
+  display: flex;
+  /* list-style-type: none; */
+  gap: 20px;
+  margin-top: 15px;
+
+}
+#q{
+  margin-right: 1150px;
+  font-weight: 700;
+  font-size: 30px;
+}
+#right,#right1{
+  margin-top: 10px;
+}
+#right{
+  margin-right: 30px;
+}
+#right1{
+  margin-left: 20px;
+}
+#backimg{
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://zubairhadi1249-me-qtripstatic.vercel.app/assets/hero.jpg");
+    width: 100vw;
+    height: 50vh;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+}
+ #text{
+  position: absolute;
+  top: 100px;
+  left: 600px;
+  color: #faebd7;
+  height: 200px;
+  width: 70%;
+  text-align: center;
+  margin-left: -350px;
+  
+} 
+#explore{
+  /* position: absolute; */
+  margin-top: 10px;
+  
+
+}
+#box{
+  /* position: absolute; */
+  
+  
+  height: 50px;
+  padding: 16px;
+  border-radius: 8px;
+  border: none;
+  margin-top: 15px;
+  width: 90%;
+
+}
+img{
+
+  width: 306px;
+  height: 408px;
+  border-radius: 10px;
+  margin: 0 0 20px 0;
+}
+.text{
+  /* position: absolute; */
+  font-size: 25px;
+  /* color: white; */
+}
+.cart{
+  margin-left: 30px;
+}
+img:hover{
+  filter: brightness(40%);
+  cursor: pointer;
+  
+}
+#imagediv{
+  margin-left: 10px;
+}
+#sold{
+  /* background-color:green ; */
+  /* height: 160px; */
+  width: 400px;
+  margin-right: 100px;
+  border:1px solid grey;
+}
+.maindiv{
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 50px;
+}
+#imgandtext{
+  border:0.5px solid gray;
+  /* height: 1300.85px; */
+  width: 855.99px;
+  margin-right: 500px;
+}
+#sold{
+  position: fixed;
+  right: 50px;
+}

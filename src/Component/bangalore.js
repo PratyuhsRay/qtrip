@@ -1,0 +1,34 @@
+const bangData = [{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/resort.jpg",
+    "span1":"Resort",
+    "span2":"$1200"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/tower.jpg",
+    "span1":"Tower",
+    "span2":"$1800"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/mount.jpg",
+    "span1":"Skiing",
+    "span2":"$1900"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/university.jpg",
+    "span1":"University",
+    "span2":"$800"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/market.jpg",
+    "span1":"Market",
+    "span2":"$600"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/church.jpg",
+    "span1":"Monument",
+    "span2":"$1200"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/canopy.jpg",
+    "span1":"Canopy",
+    "span2":"$1800"
+},{
+    "imageSrc":"https://zubairhadi1249-me-qtripstatic.vercel.app/assets/adventures/beachside.jpg",
+    "span1":"Beachside",
+    "span2":"$2200"
+}]
+export default bangData
